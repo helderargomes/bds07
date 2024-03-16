@@ -20,5 +20,9 @@
 
 .main-nav {
   padding-left: 150px;
-  height: 70px;
+  min-height: 70px;
 }
+
+.main-nav button {
+    border: none;
+  }
